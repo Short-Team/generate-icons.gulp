@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>List Icons</title>
+
+ <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+ <div class="wrap">
+  <h1><%= fontName %> - List Icons</h1>
+  <ul class="glyphs-list">
+   <% _.each(glyphs, function(ibo){ %>
+   <li>
+    <i class="ibo-<%= ibo.name %>"></i>
+    <code>\<%= ibo.unicode[0].charCodeAt(0).toString(16) %></code>
+    <input type="text" value="ibo-<%= ibo.name %>"/>
+   </li>
+   <% }) %>
+  </ul>
+ </div>
+</body>
+</html>

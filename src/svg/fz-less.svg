@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="iconos" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e1f22;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m19.76,34.73l-3.01,9.11h-3.87l9.88-28.96h4.47l9.88,28.96h-4l-3.09-9.11h-10.27Zm9.54-2.92l-2.88-8.34c-.65-1.89-1.07-3.61-1.5-5.29h-.08c-.43,1.68-.86,3.48-1.46,5.24l-2.83,8.38h8.77Z"/>
+</svg>

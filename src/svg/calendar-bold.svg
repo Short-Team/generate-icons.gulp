@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="guias" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3135;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .21px;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-2" y="47.5" width="2.5" height="2.5"/>
+    <rect class="cls-2" width="2.5" height="2.5"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="47.5" y="47.5" width="2.5" height="2.5"/>
+    <rect class="cls-2" x="47.5" width="2.5" height="2.5"/>
+  </g>
+  <g>
+    <path class="cls-1" d="m40.76,46.59H9.24c-3.72,0-6.74-3.02-6.74-6.74V15.98c0-3.72,3.02-6.74,6.74-6.74h31.52c3.72,0,6.74,3.02,6.74,6.74v23.87c0,3.72-3.02,6.74-6.74,6.74ZM9.24,12.33c-2.02,0-3.66,1.64-3.66,3.66v23.87c0,2.02,1.64,3.66,3.66,3.66h31.52c2.02,0,3.66-1.64,3.66-3.66V15.98c0-2.02-1.64-3.66-3.66-3.66H9.24Z"/>
+    <path class="cls-1" d="m47.5,22.2H2.5v-6.21c0-3.72,3.02-6.74,6.74-6.74h31.52c3.72,0,6.74,3.02,6.74,6.74v6.21Zm-41.91-3.08h38.83v-3.13c0-2.02-1.64-3.66-3.66-3.66H9.24c-2.02,0-3.66,1.64-3.66,3.66v3.13Z"/>
+    <g>
+      <circle class="cls-1" cx="13.22" cy="27.28" r="1.9"/>
+      <circle class="cls-1" cx="21.07" cy="27.28" r="1.9"/>
+      <circle class="cls-1" cx="28.93" cy="27.28" r="1.9"/>
+      <circle class="cls-1" cx="36.78" cy="27.28" r="1.9"/>
+      <circle class="cls-1" cx="13.22" cy="32.57" r="1.9"/>
+      <circle class="cls-1" cx="21.07" cy="32.57" r="1.9"/>
+      <circle class="cls-1" cx="28.93" cy="32.57" r="1.9"/>
+      <circle class="cls-1" cx="36.78" cy="32.57" r="1.9"/>
+      <circle class="cls-1" cx="13.22" cy="37.85" r="1.9"/>
+      <circle class="cls-1" cx="21.07" cy="37.85" r="1.9"/>
+      <circle class="cls-1" cx="28.93" cy="37.85" r="1.9"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="11.98" y="3.41" width="3.23" height="11.48" rx="1.57" ry="1.57"/>
+      <rect class="cls-1" x="34.79" y="3.41" width="3.23" height="11.48" rx="1.57" ry="1.57"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+*,*::before,*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrap {
+    max-width: 800px;
+    margin: 0 auto;
+   }
+  
+   .glyphs-list {
+    margin: 0;
+    padding: 0;
+    list-style: none
+   }
+  
+   .glyphs-list li {
+    float: left;
+    width: 25%;
+    padding: 16px;
+    text-align: center;
+   }
+  
+   .glyphs-list li:hover {
+    cursor: default;
+    background: #fafafa;
+   }
+  
+   .glyphs-list li:nth-child(4n+1) {
+    clear: left;
+   }
+  
+   .glyphs-list i {
+    font-size: 48px;
+    line-height: 1;
+   }
+  
+   .glyphs-list code {
+    display: block;
+    margin: 16px 0 0;
+   }
+  
+   .glyphs-list input {
+    display: block;
+    width: 100%;
+    margin: 16px 0 0;
+   }

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .21px;
+      }
+
+      .cls-2 {
+        fill: #1e1f22;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="iconos">
+    <g>
+      <path class="cls-2" d="m43.93,39.36H6.07c-1.97,0-3.57-1.6-3.57-3.57V14.21c0-1.97,1.6-3.57,3.57-3.57h37.86c1.97,0,3.57,1.6,3.57,3.57v21.58c0,1.97-1.6,3.57-3.57,3.57ZM6.07,11.88c-1.28,0-2.33,1.05-2.33,2.33v21.58c0,1.28,1.05,2.33,2.33,2.33h37.86c1.28,0,2.33-1.05,2.33-2.33V14.21c0-1.28-1.05-2.33-2.33-2.33H6.07Z"/>
+      <rect class="cls-2" x="6.01" y="32.93" width="38.03" height="2.56" rx=".97" ry=".97"/>
+      <g>
+        <polygon class="cls-2" points="39.95 16.62 42 18.67 44.05 16.62 43.58 16.15 42 17.72 40.9 16.62 42 15.52 42.47 15.99 42.95 15.51 42 14.57 39.95 16.62"/>
+        <polygon class="cls-2" points="44.05 15.52 42 13.46 39.95 15.52 40.43 15.99 42 14.42 43.1 15.52 42 16.61 41.53 16.15 41.06 16.62 42 17.57 44.05 15.52"/>
+      </g>
+      <rect class="cls-2" x="37.99" y="27.27" width="3.49" height="3.49" rx=".81" ry=".81" transform="translate(-8.88 36.6) rotate(-45)"/>
+      <rect class="cls-2" x="40" y="26.96" width="4.11" height="4.11" rx=".81" ry=".81" transform="translate(-8.2 38.24) rotate(-45)"/>
+      <path class="cls-2" d="m12.83,21.39h-5.73c-.78,0-1.42-.64-1.42-1.42v-3.37c0-.78.64-1.42,1.42-1.42h5.73c.78,0,1.42.64,1.42,1.42v3.37c0,.78-.64,1.42-1.42,1.42Zm-5.73-5.55c-.42,0-.76.34-.76.76v3.37c0,.42.34.76.76.76h5.73c.42,0,.76-.34.76-.76v-3.37c0-.42-.34-.76-.76-.76h-5.73Z"/>
+      <rect class="cls-2" x="6.65" y="29.01" width="6.63" height="1.24" rx=".47" ry=".47"/>
+      <rect class="cls-2" x="14.18" y="29.01" width="6.63" height="1.24" rx=".47" ry=".47"/>
+      <rect class="cls-2" x="21.71" y="29.01" width="6.63" height="1.24" rx=".47" ry=".47"/>
+      <rect class="cls-2" x="29.24" y="29.01" width="6.63" height="1.24" rx=".47" ry=".47"/>
+    </g>
+  </g>
+  <g id="guias">
+    <g>
+      <rect class="cls-1" x="47.5" y="47.5" width="2.5" height="2.5"/>
+      <rect class="cls-1" x="47.5" width="2.5" height="2.5"/>
+      <rect class="cls-1" y="47.5" width="2.5" height="2.5"/>
+      <rect class="cls-1" width="2.5" height="2.5"/>
+    </g>
+  </g>
+</svg>

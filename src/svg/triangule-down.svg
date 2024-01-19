@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .21px;
+      }
+
+      .cls-2 {
+        fill: #1e1f22;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="iconos">
+    <path class="cls-2" d="m2.5,4.75h45l-22.5,40.5L2.5,4.75Z"/>
+  </g>
+  <g id="guias">
+    <g>
+      <rect class="cls-1" x="47.5" y="47.59" width="2.5" height="2.5"/>
+      <rect class="cls-1" x="47.5" y=".09" width="2.5" height="2.5"/>
+      <rect class="cls-1" y="47.59" width="2.5" height="2.5"/>
+      <rect class="cls-1" y=".09" width="2.5" height="2.5"/>
+    </g>
+  </g>
+</svg>

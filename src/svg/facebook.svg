@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .21px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="iconos">
+    <g id="Page-1">
+      <g id="Dribbble-Light-Preview">
+        <g id="icons">
+          <path id="facebook-_176_" data-name="facebook-[#176]" class="cls-2" d="m29.1,47.5v-20.25h6.15l1-9h-7.15v-4.38c0-2.32.06-4.62,3.3-4.62h3.28V2.82c0-.1-2.82-.32-5.67-.32-5.95,0-9.68,3.73-9.68,10.58v5.17h-6.58v9h6.58v20.25h8.77Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="guias">
+    <rect class="cls-1" x="47.5" y="47.5" width="2.5" height="2.5"/>
+    <rect class="cls-1" x="47.5" width="2.5" height="2.5"/>
+    <rect class="cls-1" y="47.5" width="2.5" height="2.5"/>
+    <rect class="cls-1" width="2.5" height="2.5"/>
+    <g>
+      <rect class="cls-1" x="47.5" y="12.5" width="2.5" height="2.5"/>
+      <rect class="cls-1" y="12.5" width="2.5" height="2.5"/>
+    </g>
+  </g>
+</svg>

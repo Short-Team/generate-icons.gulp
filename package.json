@@ -1,0 +1,23 @@
+{
+  "name": "iconos-fonts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-iconfont": "^11.0.1",
+    "gulp-iconfont-css": "^3.0.0",
+    "gulp-sass": "^5.1.0",
+    "underscore": "^1.13.6"
+  },
+  "dependencies": {
+    "sass": "^1.70.0"
+  }
+}
